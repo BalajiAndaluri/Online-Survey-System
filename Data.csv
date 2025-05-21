@@ -1,0 +1,501 @@
+responseID,surveyID,userID,QuestionID,responseText
+1,1,1,1,Daily
+2,1,2,2,Skill Improvement
+3,1,3,3,4
+4,1,4,4,Graphs
+5,1,1,5,Yes
+6,2,2,6,6-8
+7,2,3,7,No
+8,2,4,8,Distractions
+9,3,1,9,Python
+10,3,2,10,Simplicity
+11,1,3,1,Weekly
+12,1,4,2,Interview Prep
+13,1,1,3,3
+14,1,2,4,Arrays
+15,1,3,5,No
+16,2,4,6,4-6
+17,2,1,7,Yes
+18,2,2,8,Procrastination
+19,3,3,9,Java
+20,3,4,10,Performance
+21,1,1,1,Monthly
+22,1,2,2,Problem Solving
+23,1,3,3,5
+24,1,4,4,Trees
+25,1,1,5,Yes
+26,2,2,6,Less than 4
+27,2,3,7,No
+28,2,4,8,Lack of Planning
+29,3,1,9,JavaScript
+30,3,2,10,Versatility
+31,1,3,1,Daily
+32,1,4,2,Fun
+33,1,1,3,2
+34,1,2,4,DP
+35,1,3,5,No
+36,2,4,6,6-8
+37,2,1,7,Yes
+38,2,2,8,Social Media
+39,3,3,9,C++
+40,3,4,10,Performance
+41,1,1,1,Weekly
+42,1,2,2,Interview Prep
+43,1,3,3,4
+44,1,4,4,Graphs
+45,1,1,5,Yes
+46,2,2,6,4-6
+47,2,3,7,No
+48,2,4,8,Distractions
+49,3,1,9,Python
+50,3,2,10,Ecosystem
+51,1,3,1,Monthly
+52,1,4,2,Skill Improvement
+53,1,1,3,3
+54,1,2,4,Arrays
+55,1,3,5,No
+56,2,4,6,More than 8
+57,2,1,7,Yes
+58,2,2,8,Procrastination
+59,3,3,9,Java
+60,3,4,10,Community
+61,1,1,1,Daily
+62,1,2,2,Problem Solving
+63,1,3,3,5
+64,1,4,4,Trees
+65,1,1,5,Yes
+66,2,2,6,Less than 4
+67,2,3,7,No
+68,2,4,8,Lack of Planning
+69,3,1,9,JavaScript
+70,3,2,10,Versatility
+71,1,3,1,Rarely
+72,1,4,2,Fun
+73,1,1,3,1
+74,1,2,4,DP
+75,1,3,5,No
+76,2,4,6,6-8
+77,2,1,7,Yes
+78,2,2,8,Social Media
+79,3,3,9,Go
+80,3,4,10,Performance
+81,1,1,1,Daily
+82,1,2,2,Interview Prep
+83,1,3,3,4
+84,1,4,4,Graphs
+85,1,1,5,Yes
+86,2,2,6,4-6
+87,2,3,7,No
+88,2,4,8,Distractions
+89,3,1,9,Python
+90,3,2,10,Simplicity
+91,1,3,1,Weekly
+92,1,4,2,Skill Improvement
+93,1,1,3,3
+94,1,2,4,Arrays
+95,1,3,5,No
+96,2,4,6,More than 8
+97,2,1,7,Yes
+98,2,2,8,Procrastination
+99,3,3,9,Java
+100,3,4,10,Ecosystem
+101,1,1,1,Daily
+102,1,2,2,Problem Solving
+103,1,3,3,5
+104,1,4,4,Trees
+105,1,1,5,Yes
+106,2,2,6,Less than 4
+107,2,3,7,No
+108,2,4,8,Lack of Planning
+109,3,1,9,JavaScript
+110,3,2,10,Community
+111,1,3,1,Rarely
+112,1,4,2,Fun
+113,1,1,3,1
+114,1,2,4,DP
+115,1,3,5,No
+116,2,4,6,6-8
+117,2,1,7,Yes
+118,2,2,8,Social Media
+119,3,3,9,Rust
+120,3,4,10,Performance
+121,1,1,1,Daily
+122,1,2,2,Interview Prep
+123,1,3,3,4
+124,1,4,4,Graphs
+125,1,1,5,Yes
+126,2,2,6,4-6
+127,2,3,7,No
+128,2,4,8,Distractions
+129,3,1,9,Python
+130,3,2,10,Simplicity
+131,1,3,1,Weekly
+132,1,4,2,Skill Improvement
+133,1,1,3,3
+134,1,2,4,Arrays
+135,1,3,5,No
+136,2,4,6,More than 8
+137,2,1,7,Yes
+138,2,2,8,Procrastination
+139,3,3,9,Java
+140,3,4,10,Ecosystem
+141,1,1,1,Daily
+142,1,2,2,Problem Solving
+143,1,3,3,5
+144,1,4,4,Trees
+145,1,1,5,Yes
+146,2,2,6,Less than 4
+147,2,3,7,No
+148,2,4,8,Lack of Planning
+149,3,1,9,JavaScript
+150,3,2,10,Community
+151,1,3,1,Rarely
+152,1,4,2,Fun
+153,1,1,3,1
+154,1,2,4,DP
+155,1,3,5,No
+156,2,4,6,6-8
+157,2,1,7,Yes
+158,2,2,8,Social Media
+159,3,3,9,Go
+160,3,4,10,Performance
+161,1,1,1,Daily
+162,1,2,2,Interview Prep
+163,1,3,3,4
+164,1,4,4,Graphs
+165,1,1,5,Yes
+166,2,2,6,4-6
+167,2,3,7,No
+168,2,4,8,Distractions
+169,3,1,9,Python
+170,3,2,10,Simplicity
+171,1,3,1,Weekly
+172,1,4,2,Skill Improvement
+173,1,1,3,3
+174,1,2,4,Arrays
+175,1,3,5,No
+176,2,4,6,More than 8
+177,2,1,7,Yes
+178,2,2,8,Procrastination
+179,3,3,9,Java
+180,3,4,10,Ecosystem
+181,1,1,1,Daily
+182,1,2,2,Problem Solving
+183,1,3,3,5
+184,1,4,4,Trees
+185,1,1,5,Yes
+186,2,2,6,Less than 4
+187,2,3,7,No
+188,2,4,8,Lack of Planning
+189,3,1,9,JavaScript
+190,3,2,10,Community
+191,1,3,1,Rarely
+192,1,4,2,Fun
+193,1,1,3,1
+194,1,2,4,DP
+195,1,3,5,No
+196,2,4,6,6-8
+197,2,1,7,Yes
+198,2,2,8,Social Media
+199,3,3,9,Rust
+200,3,4,10,Performance
+201,1,1,1,Daily
+202,1,2,2,Interview Prep
+203,1,3,3,4
+204,1,4,4,Graphs
+205,1,1,5,Yes
+206,2,2,6,4-6
+207,2,3,7,No
+208,2,4,8,Distractions
+209,3,1,9,Python
+210,3,2,10,Simplicity
+211,1,3,1,Weekly
+212,1,4,2,Skill Improvement
+213,1,1,3,3
+214,1,2,4,Arrays
+215,1,3,5,No
+216,2,4,6,More than 8
+217,2,1,7,Yes
+218,2,2,8,Procrastination
+219,3,3,9,Java
+220,3,4,10,Ecosystem
+221,1,1,1,Daily
+222,1,2,2,Problem Solving
+223,1,3,3,5
+224,1,4,4,Trees
+225,1,1,5,Yes
+226,2,2,6,Less than 4
+227,2,3,7,No
+228,2,4,8,Lack of Planning
+229,3,1,9,JavaScript
+230,3,2,10,Community
+231,1,3,1,Rarely
+232,1,4,2,Fun
+233,1,1,3,1
+234,1,2,4,DP
+235,1,3,5,No
+236,2,4,6,6-8
+237,2,1,7,Yes
+238,2,2,8,Social Media
+239,3,3,9,Go
+240,3,4,10,Performance
+241,1,1,1,Daily
+242,1,2,2,Interview Prep
+243,1,3,3,4
+244,1,4,4,Graphs
+245,1,1,5,Yes
+246,2,2,6,4-6
+247,2,3,7,No
+248,2,4,8,Distractions
+249,3,1,9,Python
+250,3,2,10,Simplicity
+251,1,3,1,Weekly
+252,1,4,2,Skill Improvement
+253,1,1,3,3
+254,1,2,4,Arrays
+255,1,3,5,No
+256,2,4,6,More than 8
+257,2,1,7,Yes
+258,2,2,8,Procrastination
+259,3,3,9,Java
+260,3,4,10,Ecosystem
+261,1,1,1,Daily
+262,1,2,2,Problem Solving
+263,1,3,3,5
+264,1,4,4,Trees
+265,1,1,5,Yes
+266,2,2,6,Less than 4
+267,2,3,7,No
+268,2,4,8,Lack of Planning
+269,3,1,9,JavaScript
+270,3,2,10,Community
+271,1,3,1,Rarely
+272,1,4,2,Fun
+273,1,1,3,1
+274,1,2,4,DP
+275,1,3,5,No
+276,2,4,6,6-8
+277,2,1,7,Yes
+278,2,2,8,Social Media
+279,3,3,9,Rust
+280,3,4,10,Performance
+281,1,1,1,Daily
+282,1,2,2,Interview Prep
+283,1,3,3,4
+284,1,4,4,Graphs
+285,1,1,5,Yes
+286,2,2,6,4-6
+287,2,3,7,No
+288,2,4,8,Distractions
+289,3,1,9,Python
+290,3,2,10,Simplicity
+291,1,3,1,Weekly
+292,1,4,2,Skill Improvement
+293,1,1,3,3
+294,1,2,4,Arrays
+295,1,3,5,No
+296,2,4,6,More than 8
+297,2,1,7,Yes
+298,2,2,8,Procrastination
+299,3,3,9,Java
+300,3,4,10,Ecosystem
+301,1,1,1,Daily
+302,1,2,2,Problem Solving
+303,1,3,3,5
+304,1,4,4,Trees
+305,1,1,5,Yes
+306,2,2,6,Less than 4
+307,2,3,7,No
+308,2,4,8,Lack of Planning
+309,3,1,9,JavaScript
+310,3,2,10,Community
+311,1,3,1,Rarely
+312,1,4,2,Fun
+313,1,1,3,1
+314,1,2,4,DP
+315,1,3,5,No
+316,2,4,6,6-8
+317,2,1,7,Yes
+318,2,2,8,Social Media
+319,3,3,9,Go
+320,3,4,10,Performance
+321,1,1,1,Daily
+322,1,2,2,Interview Prep
+323,1,3,3,4
+324,1,4,4,Graphs
+325,1,1,5,Yes
+326,2,2,6,4-6
+327,2,3,7,No
+328,2,4,8,Distractions
+329,3,1,9,Python
+330,3,2,10,Simplicity
+331,1,3,1,Weekly
+332,1,4,2,Skill Improvement
+333,1,1,3,3
+334,1,2,4,Arrays
+335,1,3,5,No
+336,2,4,6,More than 8
+337,2,1,7,Yes
+338,2,2,8,Procrastination
+339,3,3,9,Java
+340,3,4,10,Ecosystem
+341,1,1,1,Daily
+342,1,2,2,Problem Solving
+343,1,3,3,5
+344,1,4,4,Trees
+345,1,1,5,Yes
+346,2,2,6,Less than 4
+347,2,3,7,No
+348,2,4,8,Lack of Planning
+349,3,1,9,JavaScript
+350,3,2,10,Community
+351,1,3,1,Rarely
+352,1,4,2,Fun
+353,1,1,3,1
+354,1,2,4,DP
+355,1,3,5,No
+356,2,4,6,6-8
+357,2,1,7,Yes
+358,2,2,8,Social Media
+359,3,3,9,Rust
+360,3,4,10,Performance
+361,1,1,1,Daily
+362,1,2,2,Interview Prep
+363,1,3,3,4
+364,1,4,4,Graphs
+365,1,1,5,Yes
+366,2,2,6,4-6
+367,2,3,7,No
+368,2,4,8,Distractions
+369,3,1,9,Python
+370,3,2,10,Simplicity
+371,1,3,1,Weekly
+372,1,4,2,Skill Improvement
+373,1,1,3,3
+374,1,2,4,Arrays
+375,1,3,5,No
+376,2,4,6,More than 8
+377,2,1,7,Yes
+378,2,2,8,Procrastination
+379,3,3,9,Java
+380,3,4,10,Ecosystem
+381,1,1,1,Daily
+382,1,2,2,Problem Solving
+383,1,3,3,5
+384,1,4,4,Trees
+385,1,1,5,Yes
+386,2,2,6,Less than 4
+387,2,3,7,No
+388,2,4,8,Lack of Planning
+389,3,1,9,JavaScript
+390,3,2,10,Community
+391,1,3,1,Rarely
+392,1,4,2,Fun
+393,1,1,3,1
+394,1,2,4,DP
+395,1,3,5,No
+396,2,4,6,6-8
+397,2,1,7,Yes
+398,2,2,8,Social Media
+399,3,3,9,Go
+400,3,4,10,Performance
+401,1,1,1,Daily
+402,1,2,2,Interview Prep
+403,1,3,3,4
+404,1,4,4,Graphs
+405,1,1,5,Yes
+406,2,2,6,4-6
+407,2,3,7,No
+408,2,4,8,Distractions
+409,3,1,9,Python
+410,3,2,10,Simplicity
+411,1,3,1,Weekly
+412,1,4,2,Skill Improvement
+413,1,1,3,3
+414,1,2,4,Arrays
+415,1,3,5,No
+416,2,4,6,More than 8
+417,2,1,7,Yes
+418,2,2,8,Procrastination
+419,3,3,9,Java
+420,3,4,10,Ecosystem
+421,1,1,1,Daily
+422,1,2,2,Problem Solving
+423,1,3,3,5
+424,1,4,4,Trees
+425,1,1,5,Yes
+426,2,2,6,Less than 4
+427,2,3,7,No
+428,2,4,8,Lack of Planning
+429,3,1,9,JavaScript
+430,3,2,10,Community
+431,1,3,1,Rarely
+432,1,4,2,Fun
+433,1,1,3,1
+434,1,2,4,DP
+435,1,3,5,No
+436,2,4,6,6-8
+437,2,1,7,Yes
+438,2,2,8,Social Media
+439,3,3,9,Rust
+440,3,4,10,Performance
+441,1,1,1,Daily
+442,1,2,2,Interview Prep
+443,1,3,3,4
+444,1,4,4,Graphs
+445,1,1,5,Yes
+446,2,2,6,4-6
+447,2,3,7,No
+448,2,4,8,Distractions
+449,3,1,9,Python
+450,3,2,10,Simplicity
+451,1,3,1,Weekly
+452,1,4,2,Skill Improvement
+453,1,1,3,3
+454,1,2,4,Arrays
+455,1,3,5,No
+456,2,4,6,More than 8
+457,2,1,7,Yes
+458,2,2,8,Procrastination
+459,3,3,9,Java
+460,3,4,10,Ecosystem
+461,1,1,1,Daily
+462,1,2,2,Problem Solving
+463,1,3,3,5
+464,1,4,4,Trees
+465,1,1,5,Yes
+466,2,2,6,Less than 4
+467,2,3,7,No
+468,2,4,8,Lack of Planning
+469,3,1,9,JavaScript
+470,3,2,10,Community
+471,1,3,1,Rarely
+472,1,4,2,Fun
+473,1,1,3,1
+474,1,2,4,DP
+475,1,3,5,No
+476,2,4,6,6-8
+477,2,1,7,Yes
+478,2,2,8,Social Media
+479,3,3,9,Go
+480,3,4,10,Performance
+481,1,1,1,Daily
+482,1,2,2,Interview Prep
+483,1,3,3,4
+484,1,4,4,Graphs
+485,1,1,5,Yes
+486,2,2,6,4-6
+487,2,3,7,No
+488,2,4,8,Distractions
+489,3,1,9,Python
+490,3,2,10,Simplicity
+491,1,3,1,Weekly
+492,1,4,2,Skill Improvement
+493,1,1,3,3
+494,1,2,4,Arrays
+495,1,3,5,No
+496,2,4,6,More than 8
+497,2,1,7,Yes
+498,2,2,8,Procrastination
+499,3,3,9,Java
+500,3,4,10,Ecosystem
