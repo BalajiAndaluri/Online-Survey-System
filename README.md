@@ -1,7 +1,17 @@
-This project is a beginner-friendly exercise in using SQL queries. I created a database named "System" with multiple tables containing sample data. The relationship between the tables is illustrated in the EER diagram (EER_Diagram.png).
+# Online-Survey-System - _A beginner Friendly MySQL Excercise._
+---
+This academic survey aims to gather insights into various facets of a Computer Science Engineering student's journey towards becoming a proficient software engineer. 
+The questionnaire was structured around three primary areas: 
+- Experiences with LeetCode coding challenges
+- Preferences for programming languages, and
+- Individual productivity habits.
+---
 
-I conducted a survey among my friends and collegemates about their LeetCode coding experiences and collected the data as a CSV file. Using Python Pandas, I extracted all rows from the CSV file and inserted them into the database tables in MySQL Workbench.
+The Google Form collected responses from participants, including their name and email, across 10 distinct questions.To manage the structured data, I designed several relational tables, as detailed in the accompanying Enhanced Entity-Relationship (EER) diagram (EER_Diagram.png).  
+  
+All dynamic data, encompassing user submissions and participant details, was initially compiled into separate comma-separated values (CSV) files, specifically `Data.csv` for responses and `Users.csv` for user information. A Python script, leveraging the `csv`, `mysql.connector`, and `pandas` libraries, was developed to efficiently import this raw CSV data and persist it into the corresponding MySQL database tables.  
 
+---
 Learning Objectives
 
   - Gain hands-on experience with SQL queries.
